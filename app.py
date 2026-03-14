@@ -8,8 +8,8 @@ import time
 # ==========================================================
 # PAGE CONFIG
 # ==========================================================
-st.set_page_config(page_title="AI Virtual Interview Coach", layout="wide")
-st.title("🧠 AI Virtual Interview Coach Dashboard")
+st.set_page_config(page_title="AI Virtual Interview Evaluator", layout="wide")
+st.title("🧠 AI Virtual Interview Evaluator")
 
 # ==========================================================
 # SESSION STATE
